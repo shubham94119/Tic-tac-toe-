@@ -1,6 +1,3 @@
-Sure! Here's a project description for a Tic Tac Toe game using HTML, CSS, and JavaScript in 10 points for your GitHub repository:
-
----
 
 ## Tic Tac Toe Game
 
